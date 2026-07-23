@@ -5,10 +5,24 @@
     "asin": "8576224720",
     "link_afiliado": "https://www.amazon.com.br/dp/8576224720?tag=minhaestan091-20",
     "cover": "https://m.media-amazon.com/images/I/71pXcXhY1PL._AC_UF1000,1000_QL80_.jpg",
-    "category": "Não-ficção",
+    "category": "Cosmovisão Crista",
     "blurb": "Reflexões sobre fé e cultura na sociedade contemporânea.",
     "color": "rust"
   }
+
+  [
+  {
+    "title": "A Morte da Razão",
+    "author": "Francis Schaeffer",
+    "asin": "8577792595",
+    "link_afiliado": "https://www.amazon.com.br/dp/8577792595?tag=minhaestan091-20",
+    "cover": "https://m.media-amazon.com/images/I/71ZzYzCkVPL._AC_UF1000,1000_QL80_.jpg",
+    "category": "Cosmovisão Cristã",
+    "blurb": "Um exame crítico da filosofia moderna e suas implicações para a fé cristã.",
+    "color": "rust"
+  }
+]
+
 ]
 
 
