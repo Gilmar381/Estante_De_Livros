@@ -1,0 +1,11 @@
+[
+  { "title": "Grande Sertão: Veredas", "author": "Guimarães Rosa", "category": "Clássico BR", "blurb": "Uma travessia de linguagem e sertão, narrada por Riobaldo em fluxo torrencial.", "asin": "8535914641", "color": "rust", "cover": "" },
+  { "title": "Torto Arado", "author": "Itamar Vieira Junior", "category": "Literatura BR", "blurb": "Duas irmãs, uma faca e a história de uma comunidade rural do Brasil profundo.", "asin": "8551303351", "color": "moss", "cover": "" },
+  { "title": "Duna", "author": "Frank Herbert", "category": "Ficção Científica", "blurb": "Política, ecologia e profecia se cruzam no deserto de Arrakis.", "asin": "8576572011", "color": "teal", "cover": "" },
+  { "title": "1984", "author": "George Orwell", "category": "Clássico", "blurb": "Vigilância total e a reescrita da verdade em um estado totalitário.", "asin": "8535914846", "color": "ink2", "cover": "" },
+  { "title": "O Nome do Vento", "author": "Patrick Rothfuss", "category": "Fantasia", "blurb": "A lenda de Kvothe, contada por ele mesmo, entre música e magia.", "asin": "8580413127", "color": "wine", "cover": "" },
+  { "title": "Sapiens", "author": "Yuval Noah Harari", "category": "Não-ficção", "blurb": "Uma breve história da humanidade, do fogo às redes globais.", "asin": "8525432180", "color": "gold", "cover": "" },
+  { "title": "A Hora da Estrela", "author": "Clarice Lispector", "category": "Literatura BR", "blurb": "A vida miúda de Macabéa, narrada com uma ironia que dói.", "asin": "853590007X", "color": "rust", "cover": "" },
+  { "title": "Fundação", "author": "Isaac Asimov", "category": "Ficção Científica", "blurb": "O plano de um matemático para encurtar mil anos de barbárie.", "asin": "8576572062", "color": "teal", "cover": "" },
+  { "title": "Cem Anos de Solidão", "author": "Gabriel García Márquez", "category": "Clássico", "blurb": "Sete gerações da família Buendía na cidade imaginária de Macondo.", "asin": "8501062646", "color": "moss", "cover": "" }
+]

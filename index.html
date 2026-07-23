@@ -1,0 +1,46 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Estante — recomendações de livros</title>
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Fraunces:ital,opsz,wght@0,9..144,400;0,9..144,600;0,9..144,700;1,9..144,500&family=Source+Serif+4:opsz,wght@8..60,400;8..60,600&family=IBM+Plex+Mono:wght@400;500&display=swap" rel="stylesheet">
+<link rel="stylesheet" href="style.css">
+</head>
+<body>
+
+<header class="hero">
+  <div class="hero-inner">
+    <p class="eyebrow">Estante pessoal · links de afiliado</p>
+    <h1>Livros que eu <em>realmente</em> recomendo</h1>
+    <p class="lede">Uma curadoria pequena e sincera. Toque em uma lombada para pular direto até o livro, ou role até a estante completa abaixo.</p>
+
+    <div class="shelf-wrap" id="shelfWrap">
+      <div class="shelf" id="shelf"><!-- lombadas geradas via JS --></div>
+      <div class="shelf-board"></div>
+    </div>
+    <p class="shelf-hint">arraste para o lado · toque numa lombada</p>
+  </div>
+</header>
+
+<nav class="filters" id="filters" aria-label="Filtrar por categoria">
+  <span class="eyebrow">Filtrar</span>
+  <!-- chips gerados via JS -->
+</nav>
+
+<main class="grid" id="grid">
+  <!-- cards gerados via JS -->
+</main>
+
+<footer>
+  <div class="inner">
+    <p class="brand">Estante</p>
+    <p class="disclosure">Como Associado Amazon, esta página pode ganhar uma comissão sobre compras qualificadas feitas através dos links acima, sem custo adicional para você.</p>
+  </div>
+</footer>
+
+<script src="script.js"></script>
+</body>
+</html>
