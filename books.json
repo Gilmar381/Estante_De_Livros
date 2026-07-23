@@ -8,4 +8,7 @@
   { "title": "A Hora da Estrela", "author": "Clarice Lispector", "category": "Literatura BR", "blurb": "A vida miúda de Macabéa, narrada com uma ironia que dói.", "asin": "853590007X", "color": "rust", "cover": "" },
   { "title": "Fundação", "author": "Isaac Asimov", "category": "Ficção Científica", "blurb": "O plano de um matemático para encurtar mil anos de barbárie.", "asin": "8576572062", "color": "teal", "cover": "" },
   { "title": "Cem Anos de Solidão", "author": "Gabriel García Márquez", "category": "Clássico", "blurb": "Sete gerações da família Buendía na cidade imaginária de Macondo.", "asin": "8501062646", "color": "moss", "cover": "" }
+  {
+  "titulo": "Como Viveremos - Francis Schaeffer", "asin": "8576224720", "link_afiliado": "https://www.amazon.com.br/dp/8576224720?tag=minhaestan091-20","capa": "https://m.media-amazon.com/images/I/81abcXYZL.jpg"}
+
 ]
