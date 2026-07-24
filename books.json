@@ -18,7 +18,20 @@
     "category": "Cosmovisão Cristã",
     "blurb": "Um exame crítico da filosofia moderna e suas implicações para a fé cristã.",
     "color": "rust"
+  },
+  [
+  {
+    "title": "A Verdadeira Espiritualidade",
+    "author": "Francis Schaeffer",
+    "asin": "8576229641",
+    "link_afiliado": "https://www.amazon.com.br/dp/8576229641?tag=minhaestan091-20",
+    "cover": "https://m.media-amazon.com/images/I/619USH2XupL._SL1005_.jpg",
+    "category": "Cosmovisão Cristã",
+    "blurb": "Um guia prático sobre como viver a fé cristã de forma autêntica e transformadora.",
+    "color": "rust"
   }
+]
+
 
 
 ]
