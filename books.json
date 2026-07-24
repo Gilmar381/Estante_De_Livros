@@ -19,7 +19,7 @@
     "blurb": "Um exame crítico da filosofia moderna e suas implicações para a fé cristã.",
     "color": "rust"
   },
-  [
+  
   {
     "title": "A Verdadeira Espiritualidade",
     "author": "Francis Schaeffer",
@@ -29,11 +29,17 @@
     "category": "Cosmovisão Cristã",
     "blurb": "Um guia prático sobre como viver a fé cristã de forma autêntica e transformadora.",
     "color": "rust"
+  },
+  {
+    "title": "O Deus que se revela",
+    "author": "Francis Schaeffer",
+    "asin": "857622657X",
+    "link_afiliado": "https://www.amazon.com.br/dp/857622657X?tag=minhaestan091-20",
+    "cover": "https://m.media-amazon.com/images/I/71i8W9Nv1rL._SL1500_.jpg",
+    "category": "Cosmovisão Cristã",
+    "blurb": "Uma reflexão sobre como Deus se revela ao homem e a importância dessa revelação para a fé cristã.",
+    "color": "rust"
   }
-]
-
-
-
 ]
 
 
